@@ -38,8 +38,12 @@ dictionaries={
         'Large corporate (1000+)': 'S9-S11'
     },
     "segment_ratios":{
-        "s5":0.368999838,
-        "s6":0.631000162
+        "s5":0.368999838,# S5-S6
+        "s6":0.631000162,# S5-S6
+        "s7":0.397751443,# S7+
+        "s8":0.265876633,# S7+
+        "s9":0.215739897,# S7+
+        "s10":0.120632027# S7+
     },
     "eurostat_segments":{
         'From 0 to 1 person employed':"S1-S3",
